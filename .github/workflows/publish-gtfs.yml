@@ -25,12 +25,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Zip ONLY the contents of gtfs/, so files are at the root of the archive
+      # Zip ONLY the contents of google_transit/, so files are at the root of the archive
       - name: Create ZIP with flat top-level
         run: |
           set -euo pipefail
           mkdir -p public
-          cd gtfs
+          cd google_transit
           # -r = recurse; write to ../public/gtfs.zip so paths are relative to current dir
           zip -r ../public/gtfs.zip .
           cd -
