@@ -31,8 +31,8 @@ jobs:
           set -euo pipefail
           mkdir -p public
           cd google_transit
-          # -r = recurse; write to ../public/gtfs.zip so paths are relative to current dir
-          zip -r ../public/gtfs.zip .
+          # -r = recurse; write to ../public/gtfs_s20260314.zip so paths are relative to current dir
+          zip -r ../public/gtfs_20260314.zip .
           cd -
 
       - name: Deploy to gh-pages
