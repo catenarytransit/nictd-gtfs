@@ -1,5 +1,7 @@
 # Unofficial NICTD GTFS feed
 
+[Download GTFS feed (zip)](https://catenarytransit.github.io/nictd-gtfs/trunk/gtfs.zip)
+
 This GTFS feed is modified from the official NICTD GTFS feed
 
 ## Maintenance
