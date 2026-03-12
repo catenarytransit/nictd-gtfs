@@ -1,6 +1,6 @@
 # Unofficial NICTD GTFS feed for 2026-03-14 St. Patrick's Day
 
-[Download GTFS feed (zip)](https://ethanc8.github.io/nictd-gtfs/gtfs_20260314.zip)
+[Download GTFS feed (zip)](https://catenarytransit.github.io/nictd-gtfs/gtfs_20260314.zip)
 
 ## How the feed is made
 
