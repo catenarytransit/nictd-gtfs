@@ -1,7 +1,7 @@
 route_id,service_id,trip_id,trip_short_name,direction_id,trip_headsign
-Local Weekday,StPatricks,Extra-0719,Extra,1,Chicago
-Local Weekday,StPatricks,Extra-0729,Extra,1,Chicago
-Local Weekday,StPatricks,Extra-0831,Extra,1,Chicago
-Local Weekday,StPatricks,Extra-1525,Extra,0,Carroll Ave. (Michigan City)
-Local Weekday,StPatricks,Extra-1702,Extra,0,Carroll Ave. (Michigan City)
-Local Weekday,StPatricks,Extra-1804,Extra,0,Carroll Ave. (Michigan City)
+so_shore,StPatricks,Extra-0719,Extra,1,Chicago
+so_shore,StPatricks,Extra-0729,Extra,1,Chicago
+so_shore,StPatricks,Extra-0831,Extra,1,Chicago
+so_shore,StPatricks,Extra-1525,Extra,0,Carroll Ave. (Michigan City)
+so_shore,StPatricks,Extra-1702,Extra,0,Carroll Ave. (Michigan City)
+so_shore,StPatricks,Extra-1804,Extra,0,Carroll Ave. (Michigan City)
